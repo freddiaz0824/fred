@@ -1,30 +1,27 @@
-# Data Scientist / Data Engineer / Software Engineer
+# Mechanical Engineer
 
-#### Technical Skills: Python, SQL, Machine Learning, Data Wrangling, Data Visualization
+#### Technical Skills: AutoCAD, SAP, Python
 
 ## Education
-- B.S. Electronics Engineering | University of Santo Tomas (_June 2023_)
+- B.S. Mechanical Engineering | University of Santo Tomas (_June 2023_)
 
 ## Licenses
-- Electronics Engineer (_Board Topnotcher - Top 9_)
-- Electronics Technician
+- Mechanical Engineer (August 2023)
 
 ## Work Experience
-**Intern @ Radius Telecoms Inc (_June 2022 - July 2022_)**
-- Automated post-project documentation using Microsoft Excel Macros 
-- First-hand experience of learning from top project managers
-- Analyzed as-built plans with riser diagrams and floor plans for post-project documentation for colocation, rollout, and node projects
-- Identified NAP Boxes, Entry Facilities, and type of Fiber Optic Cable deployed
+**Intern @ Phoenix Petroleum Inc. - LPG Supply Chain and Logistics Department (_June 2022 - July 2022_)**
+- Conducted Voyage Analysis 
+- Warehouse safety audit 
+- Grading of Sales Agent 
+- Review of Forcast LPG 
 
-- **Skills**: Project Management · Microsoft Excel Macros · Microsoft Excel · Floor Plans · Data Wrangling · Microsoft Word · Networking · Microsoft PowerPoint · As-built Documentation
+- **Skills**: · Microsoft Excel · Microsoft Word · Microsoft PowerPoint · AutoCAD · SAP
 
 ## Projects and Professional Development
-### Undergraduate Thesis: Children Screen Exposure Detection and Classification between Static and Dynamic Media
+### Undergraduate Thesis: Development of a Water Cooler and Circulator using Thermoelectric Configuration for Labaratory Use
 
 
-The objective of the thesis was to use machine learning to quantify the duration of screen time and classify the content of the screen. The input was sensor data, and the output was the classification and the duration of the screen time. My primary role was to develop the **signal preprocessing, data visualization, feature selection, and machine learning pipeline in Python**. The Python libraries utilized are Numpy, Pandas, Matplotlib, and SciKit learn. I compared three machine learning models: SVM, Random Forest, and Naïve Bayes. After training 80 machine learning models, the project yielded an average hold-out accuracy of 99.87%.
-
-_Skills: Python, Numpy, Pandas, Matplotlib, SciKit Learn, and parameter optimization_
+Developed a different approach to cooling using thermoelectric cooling modules without the use of conventional vapor compression cycle. 
 
 ![](/assets/Thesis.png)
 
