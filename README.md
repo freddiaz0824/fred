@@ -32,7 +32,7 @@ In addition, future Mechanical Engineering students will benefit from this equip
 ### Procurement Associate: Procurement Division 
 After passing the board examination, I was acquired as a Procurement Associate at Petron Corporation, this serves as my first job after completing my Bachelor Degree.
 
-As a Procurement Associate, My main responsibility is to review purchase order request, communication with vendors and proponents, negotiation of price, delivery lead time, and warranty. During my tenure at Petron Corporation, I developed several skills that would greatly benefit the role of Graduate Design Engineer, Sustaining Engineering:
+As a Procurement Associate, My main responsibility is to review purchase order request, communication with vendors and proponents, negotiation of price, delivery lead time, and warranty. During my tenure at Petron Corporation, I developed several skills that would greatly benefit the role of Graduate Design Engineer:
 
 ### Technical Knowledge of materials
   As a procurement associate, I learned to understand the properties and applications of the materials I was purchasing. This knowledge is vital in design     engineering, where selecting the right materials can significantly impact product performance, sustainability, and cost efficiency.
