@@ -29,20 +29,21 @@ In addition, future Mechanical Engineering students will benefit from this equip
 ![](/assets/1.JPG)
 
 
-### Procurement Associate: Mechanical Engineering Division 
+### Procurement Associate: Procurement Division 
 After passing the board examination, I was acquired as a Procurement Associate at Petron Corporation, this serves as my first job after completing my Bachelor Degree.
 
 As a Procurement Associate, My main responsibility is to review purchase order request, communication with vendors and proponents, negotiation of price, delivery lead time, and warranty. During my tenure at Petron Corporation, I developed several skills that would greatly benefit the role of Graduate Design Engineer, Sustaining Engineering:
-Technical Knowledge of materials
+
+### Technical Knowledge of materials
   As a procurement associate, I learned to understand the properties and applications of the materials I was purchasing. This knowledge is vital in design     engineering, where selecting the right materials can significantly impact product performance, sustainability, and cost efficiency.
 
-Specification Analysis
+### Specification Analysis
   As a procurement associate, analyzing specifications is one of my key responsibilities.In design engineering, understanding specifications ensures that the design meets the necessary requirements and standards.
 
-Cost Analysis and Budgeting 
+### Cost Analysis and Budgeting 
   As a procurement associate, Cost Analysis and Budgeting is vital skill in my role, In design engineering, these skills allows me to design innovative products that are also economically viable. My ability to evaluate costs can help ensure that products remain affordable in the market.
 
-Problem Solving
+### Problem Solving
   As a procurement associate, I often faced challenges such as supply chain disruptions or vendor issues. I believe my problem-solving abilites will be beneficial in design engineering, where I will inevitably encounter technical challenges that require innovative solutions. 
 
 _Skills: analytical skills, technical mindset, understanding context, big-picture thinking, detail-oriented thinking_
