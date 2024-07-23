@@ -49,7 +49,7 @@ As a Procurement Associate, My main responsibility is to review purchase order r
 _Skills: analytical skills, technical mindset, understanding context, big-picture thinking, detail-oriented thinking_
 
 
-![](/assets/G2.png)
+![](/assets/procurement.JPG)
 
 
 
